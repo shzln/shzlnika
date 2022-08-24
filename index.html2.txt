@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head><title>About Me</title></head>
+<body>
+<header>
+<img src="logo.jpg" alt="About Me" title="ika shaz"
+</header>
+<hr>
+<nav>
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td>meow</td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Welcome !!!</H2>
+
+<p>
+My name isss Ika Shazleena :D not only am I the eldest daughter But I also have the earliest birthdate among my siblings which is 6th of January. (act saja ja mau bagitau wish la ah wkwkw)
+</p>
+
+<img src="img/cat.jpg" width="100%" height="100%" 
+title="kucing kiwan">
+
+<ul>
+<li>fun fact: my height has not changed at all since primary school i am still .... 159cm ... ndapun turun lagi </li>
+<li>i like cats, the colour red & blue (sky blue) and quiet ppl <3 </li>
+<li>my mbti result changes like every month BUT pretty sure i am an introvert even tho i could be really loud & annoying around certain people </li>
+<li>once i decided i am comfortable enough around you it's over there's no going back from there i Will serenade you with my weekly crushes (esp if you're close with them) </li>
+<li>that is all :] PLS HAVE A NICE DAY unless you hate cats then i hope u have the worst day ever bye </li>
+</ul>
+<p><strong>Yang Jungwon if you're seeing this I am free on February 14th next year.</strong></p>
+<hr>
+<footer>
+Copyright &copy; meowmeowmeow.yjw 2022
+</body>
